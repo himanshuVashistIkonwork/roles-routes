@@ -1,4 +1,4 @@
-import { ADMIN } from "./roles.js";
+import { ADMIN, RECRUITER } from "./roles.js";
 const routeDeclartion = [
   {
     path: "/",
